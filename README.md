@@ -6,7 +6,7 @@
  * *Logistic regression*
  * *Using open CV*
 
-## Steps To Create A Prediction Algorithm To Detect Alphabets/Numbers (Part - 2)
+## Steps To Create A Prediction Algorithm To Detect Alphabets (Part - 2)
  * *We imported all the necessary libraries.*
  * *We fetched the data from the open ml library/load data.*
  * *We were likely to get an error. So we introduced the concept of SSL to avoid the error (**Code is given below**).*

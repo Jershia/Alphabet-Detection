@@ -1,4 +1,4 @@
-# Alphabet-Detection
+# Alphabet-Detection C123
  * *We wrote a prediction algorithm which would detect the numbers from the given images.*
 
 ## Used

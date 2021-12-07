@@ -9,7 +9,7 @@
 ## Steps To Create A Prediction Algorithm To Detect Alphabets (Part - 2)
  * *We imported all the necessary libraries.*
  * *We fetched the data from the open ml library/load data.*
- * *venv creates a package. Even if the version is updated it works with the new version.To activate it we have to py -m venv venv. Then write click on scripts folder and open in terminal then ./activate.bat to activate venv.*
+ * *.**venv** creates a package. Even if the version is updated it works with the new version.To activate it we have to py -m venv venv. Then write click on scripts folder and open in terminal then **./activate.bat** to activate venv.*
  * *We were likely to get an error. So we introduced the concept of SSL to avoid the error (**Code is given below**).*
  * *We split the data to train and test the prediction model.*
  * *We fit the data into the model using Logistic Regression and checked the accuracy of the model.*

@@ -12,7 +12,7 @@
  * *.**venv** creates a package. Even if the version is updated it works with the new version.To activate it we have to py -m venv venv. Then write click on scripts folder and open in terminal then **./activate.bat** to activate venv.*
  * *We were likely to get an error. So we introduced the concept of SSL to avoid the error (**Code is given below**).*
  * *We split the data to train and test the prediction model.*
- * *We fit the data into the model using Logistic Regression and checked the accuracy of the model.*
+ * *We fit the data into the model using Logistic Regression and checked the accuracy of the model. We have divided by 255 to convert to binary*
  * *We used the camera and captured every frame of it*
  * *We created a rectangle at the center of the video as the model will only detect the digit inside that rectangle. And also changed the color of the video to gray.(**Code is given below**)*
  * *We converted the image we got into PIL format to use it again and resized it to 28.*
